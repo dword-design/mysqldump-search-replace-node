@@ -1,2 +1,2 @@
-# fix-mysql-serialized-data-node
-A node.js module that fixes serialized data in a MySQL dump
+# mysqldump-search-replace-node
+A node.js module that replaces a string in a MySQL dump and fixes serialized data.
