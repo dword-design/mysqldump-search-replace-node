@@ -1,6 +1,6 @@
 {
   "name": "mysqldump-search-replace",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Replaces a string in a MySQL dump and fixes serialized data.",
   "main": "index.js",
   "scripts": {
