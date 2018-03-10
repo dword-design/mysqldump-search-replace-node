@@ -1,6 +1,6 @@
 {
   "name": "mysqldump-search-replace",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Replaces a string in a MySQL dump and fixes serialized data.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/dword-design/mysqldump-search-replace-node.git"
   },
-  "keywords": "mysqldump, mysql, search, replace, string, fix, serialize, serialized",
+  "keywords": ["mysqldump", "mysql", "search", "replace", "string", "fix", "serialize", "serialized", "wordpress", "database"],
   "author": "Sebastian Landwehr",
   "license": "MIT",
   "bugs": {
