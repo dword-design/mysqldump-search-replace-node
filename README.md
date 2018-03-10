@@ -25,7 +25,7 @@ var newContent = mysqldumpSearchReplace(
 
 **Caution**: Only string lengths are fixed currently. Array values might also become inconsistent, but which shouldn't be the case in the WordPress scenario.
 
-**License**
+## License
 
 MIT License
 
