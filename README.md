@@ -3,7 +3,8 @@ A node.js module that replaces a string in a MySQL dump and fixes serialized dat
 
 ## Installation
 Install the module via `npm install`:
-```
+
+```bash
 $ npm install --save mysqldump-search-replace
 ```
 
