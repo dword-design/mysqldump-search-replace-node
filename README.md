@@ -1,4 +1,7 @@
 # mysqldump-search-replace-node
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dword-design/mysqldump-search-replace-node.svg)](https://greenkeeper.io/)
+
 A node.js module that replaces a string in a MySQL dump and fixes serialized data. This is helpful when migrating a WordPress database from one host to another and the urls change.
 
 ## Installation
